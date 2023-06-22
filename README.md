@@ -1,1 +1,4 @@
-# Projeto Machine Learning
+# Projeto Spaceship Titanic
+
+Projeto utilizando Random Forest
+
